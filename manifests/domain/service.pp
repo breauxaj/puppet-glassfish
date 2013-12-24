@@ -1,4 +1,4 @@
-define glassfish::service (
+define glassfish::domain::service (
   $ensure,
   $enable
 ) {
